@@ -6,6 +6,7 @@
 - [X] 1 colher de sopa e 1/2 de açúcar
 - [X] 2 dedos de leite
 - [x] 1 l de água gelada
+
 Carboidrato | Proteína | Gordura
 :---:|:---:|:---:
 7 g|0,4 g|0,2 g
