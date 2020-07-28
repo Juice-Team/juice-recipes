@@ -12,4 +12,4 @@ Carboidrato | Proteína | Gordura
 92%|7%| 2%
 
 ## Como Fazer
-1.Bata no liquidificador a melancia com a água,em seguida adoce e sirva gelado, se preferir decore com hortelã.
+Bata no liquidificador a melancia com a água,em seguida adoce e sirva gelado, se preferir decore com hortelã.
