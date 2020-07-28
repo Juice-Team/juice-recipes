@@ -8,7 +8,7 @@
 - [x] 1 l de água gelada
 Carboidrato | Proteína | Gordura
 :---:|:---:|:---:
-%|%| %
+7 g|0,4 g|0,2 g
 
 ## Como Fazer
 Descascar os limões e tirar as sementes, coloca-los no liquidificador junto com os outros ingredientes, bater e em seguida coar.
