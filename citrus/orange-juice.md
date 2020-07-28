@@ -6,11 +6,11 @@
 - [X] Açúcar a gosto
 - [X] Água gelada(s) a gosto
 
-## Como Fazer
-Esprema as laranjas. Em seguida misture com a água e adoce a gosto. Sirva a seguir.
-
-## Composição nutricional da receita
-
 Carboidrato | Proteína | Gordura
 :---:|---:|:---:
 98%| 1% | 0%
+
+## Como Fazer
+Esprema as laranjas. Em seguida misture com a água e adoce a gosto. Sirva a seguir. 
+
+
