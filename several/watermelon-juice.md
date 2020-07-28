@@ -8,8 +8,7 @@
 
 Carboidrato | Proteína | Gordura
 :---:|:---:|:---:
-98%|1%| 0%
+92%|7%| 2%
 
 ## Como Fazer
-Esprema as laranjas. Em seguida misture com a água e adoce a gosto. Sirva a seguir. 
-
+Bata no liquidificador a melancia com a água, em seguida adoce e sirva gelado, se preferir decore com hortelã.
