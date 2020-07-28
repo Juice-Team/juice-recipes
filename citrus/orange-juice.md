@@ -7,8 +7,8 @@
 - [X] Água gelada(s) a gosto
 
 Carboidrato | Proteína | Gordura
-:---:|---:|:---:
-98%| 1% | 0%
+:---:|:---:|:---:
+98%|1%| 0%
 
 ## Como Fazer
 Esprema as laranjas. Em seguida misture com a água e adoce a gosto. Sirva a seguir. 
