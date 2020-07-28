@@ -1,2 +1,1 @@
-# juice-recipes
- Simply juicy juice recipes.
+<img src="https://tianchengjuice.com.sg/images/fruit-banner.jpg"> 
