@@ -1,4 +1,4 @@
-<img src="https://img.icons8.com/plasticine/2x/orange-juice.png" width="100" height="100">
+<img src="https://img.icons8.com/plasticine/2x/orange-juice.png" width="50" height="50">
 
 ## Categorias
 * Citricas  | [Clique aqui](https://github.com/Juice-Team/juice-recipes/tree/master/citrus)
