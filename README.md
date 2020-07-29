@@ -1,8 +1,8 @@
-<img src="https://img.icons8.com/plasticine/2x/orange-juice.png" width="25" height="25">
 
 ## Categorias
 * Citricas  | [Clique aqui](https://github.com/Juice-Team/juice-recipes/tree/master/citrus)
 * Diversos | [Clique aqui](https://github.com/Juice-Team/juice-recipes/tree/master/several)
+<img src="https://img.icons8.com/plasticine/2x/orange-juice.png" width="45" height="45">
 
 
 ### Sobre o Projeto
